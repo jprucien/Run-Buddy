@@ -13,3 +13,5 @@ https://jprucien.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Jean Prucien]
+
+### ©️2019 Run Buddy, Inc 
