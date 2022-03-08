@@ -71,6 +71,13 @@ Header nav ul li a {
     font-size: 1.5vw;
 }
 
+header nav ul li a:hover {
+  background: var(--primary-color);
+  color: var(--secondary-color);
+  border-radius: 15px;
+  text-shadow: none;
+}
+
 header h1 {
     font-weight: bold;
     font-size: 36px;
@@ -463,10 +470,11 @@ footer a {
   font-size: 16px;
 }
 
-.contact-form button :hover {
+.contact-form button:hover {
   color: var(--primary-color);
   background: var(--tertiary-color);
 }
+
 
 .flex-row {
   display: flex;
