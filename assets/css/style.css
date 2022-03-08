@@ -279,7 +279,7 @@ footer a {
 }
 
 .step:not(:last-child) {
-  border-bottom: 1px solid var(----tertiary-color);
+  border-bottom: 1px solid var(--tertiary-color);
 }
 
 .section-title {
@@ -307,7 +307,7 @@ footer a {
 }
 
 .step-text p {
-  color: var(----tertiary-color);
+  color: var(--tertiary-color);
   font-size: 18px;
 }
 
