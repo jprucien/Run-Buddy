@@ -11,7 +11,7 @@
   }
 
 body {
-    color: var(----tertiary-color);
+    color: var(--tertiary-color);
     font-family: Helvetica, Arial, sans-serif;
   }
 
@@ -30,7 +30,7 @@ Header {
       flex-wrap: wrap;
       display: flex;
       padding: 20px 35px;
-      background-color:  var(----tertiary-color);
+      background-color:  var(--tertiary-color);
       z-index: 9999;
   }
 
@@ -190,8 +190,8 @@ footer a {
   font-size: 16px;
 }
 
-hero-form button:hover {
-  background-color: var(----tertiary-color);  
+.hero-form button:hover {
+  background-color: var(--tertiary-color);  
 }
 
 .checkbox-wrapper input, .radio-wrapper input {
@@ -261,7 +261,7 @@ hero-form button:hover {
 .intro p {
   text-align: center;
   line-height: 1.7;
-  color: var(----tertiary-color);
+  color: var(--tertiary-color);
   width: 80%;
   font-size: 20px;
   margin: 0 auto;
@@ -297,7 +297,7 @@ hero-form button:hover {
 }
 
 .secondary-border {
-  border-color: var(----tertiary-color);
+  border-color: var(--tertiary-color);
 }
 
 .step h3 {
@@ -465,7 +465,7 @@ hero-form button:hover {
 
 .contact-form button :hover {
   color: var(--primary-color);
-  background: var(----tertiary-color);
+  background: var(--tertiary-color);
 }
 
 .flex-row {
